@@ -1,0 +1,15 @@
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\bin\Debug\net6.0\ReadOnlyVector.exe
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\bin\Debug\net6.0\ReadOnlyVector.deps.json
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\bin\Debug\net6.0\ReadOnlyVector.runtimeconfig.json
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\bin\Debug\net6.0\ReadOnlyVector.dll
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\bin\Debug\net6.0\ReadOnlyVector.pdb
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\obj\Debug\net6.0\ReadOnlyVector.csproj.AssemblyReference.cache
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\obj\Debug\net6.0\ReadOnlyVector.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\obj\Debug\net6.0\ReadOnlyVector.AssemblyInfoInputs.cache
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\obj\Debug\net6.0\ReadOnlyVector.AssemblyInfo.cs
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\obj\Debug\net6.0\ReadOnlyVector.csproj.CoreCompileInputs.cache
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\obj\Debug\net6.0\ReadOnlyVector.dll
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\obj\Debug\net6.0\refint\ReadOnlyVector.dll
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\obj\Debug\net6.0\ReadOnlyVector.pdb
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\obj\Debug\net6.0\ReadOnlyVector.genruntimeconfig.cache
+E:\Visual studio\projects\ReadOnlyVector\ReadOnlyVector\obj\Debug\net6.0\ref\ReadOnlyVector.dll
