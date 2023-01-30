@@ -1,0 +1,51 @@
+E:\VREMENNOEEE\gameee\bin\Debug\Images\Digger.png
+E:\VREMENNOEEE\gameee\bin\Debug\Images\Gold.png
+E:\VREMENNOEEE\gameee\bin\Debug\Images\Monster.png
+E:\VREMENNOEEE\gameee\bin\Debug\Images\Sack.png
+E:\VREMENNOEEE\gameee\bin\Debug\Images\Terrain.png
+E:\VREMENNOEEE\gameee\bin\Debug\11-digger.exe.config
+E:\VREMENNOEEE\gameee\bin\Debug\11-digger.exe
+E:\VREMENNOEEE\gameee\bin\Debug\11-digger.pdb
+E:\VREMENNOEEE\gameee\bin\Debug\nunit.framework.dll
+E:\VREMENNOEEE\gameee\obj\Debug\Digger.csproj.AssemblyReference.cache
+E:\VREMENNOEEE\gameee\obj\Debug\Digger.csproj.SuggestedBindingRedirects.cache
+E:\VREMENNOEEE\gameee\obj\Debug\Digger.Properties.Resources.resources
+E:\VREMENNOEEE\gameee\obj\Debug\Digger.csproj.GenerateResource.cache
+E:\VREMENNOEEE\gameee\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+E:\VREMENNOEEE\gameee\obj\Debug\Digger.csproj.CopyComplete
+E:\VREMENNOEEE\gameee\obj\Debug\11-digger.exe
+E:\VREMENNOEEE\gameee\obj\Debug\11-digger.pdb
+E:\VREMENNOEEE\Когдато дорешать\bin\Debug\Images\Digger.png
+E:\VREMENNOEEE\Когдато дорешать\bin\Debug\Images\Gold.png
+E:\VREMENNOEEE\Когдато дорешать\bin\Debug\Images\Monster.png
+E:\VREMENNOEEE\Когдато дорешать\bin\Debug\Images\Sack.png
+E:\VREMENNOEEE\Когдато дорешать\bin\Debug\Images\Terrain.png
+E:\VREMENNOEEE\Когдато дорешать\bin\Debug\11-digger.exe.config
+E:\VREMENNOEEE\Когдато дорешать\bin\Debug\11-digger.exe
+E:\VREMENNOEEE\Когдато дорешать\bin\Debug\11-digger.pdb
+E:\VREMENNOEEE\Когдато дорешать\bin\Debug\nunit.framework.dll
+E:\VREMENNOEEE\Когдато дорешать\obj\Debug\Digger.csproj.AssemblyReference.cache
+E:\VREMENNOEEE\Когдато дорешать\obj\Debug\Digger.csproj.SuggestedBindingRedirects.cache
+E:\VREMENNOEEE\Когдато дорешать\obj\Debug\Digger.Properties.Resources.resources
+E:\VREMENNOEEE\Когдато дорешать\obj\Debug\Digger.csproj.GenerateResource.cache
+E:\VREMENNOEEE\Когдато дорешать\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+E:\VREMENNOEEE\Когдато дорешать\obj\Debug\Digger.csproj.CopyComplete
+E:\VREMENNOEEE\Когдато дорешать\obj\Debug\11-digger.exe
+E:\VREMENNOEEE\Когдато дорешать\obj\Debug\11-digger.pdb
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\bin\Debug\Images\Digger.png
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\bin\Debug\Images\Gold.png
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\bin\Debug\Images\Monster.png
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\bin\Debug\Images\Sack.png
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\bin\Debug\Images\Terrain.png
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\bin\Debug\11-digger.exe.config
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\bin\Debug\11-digger.exe
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\bin\Debug\11-digger.pdb
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\bin\Debug\nunit.framework.dll
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\obj\Debug\Digger.csproj.AssemblyReference.cache
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\obj\Debug\Digger.csproj.SuggestedBindingRedirects.cache
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\obj\Debug\Digger.Properties.Resources.resources
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\obj\Debug\Digger.csproj.GenerateResource.cache
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\obj\Debug\Digger.csproj.CopyComplete
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\obj\Debug\11-digger.exe
+E:\Учись\C#\Ulearn (poka4to) code tasks\Игра диггер\obj\Debug\11-digger.pdb
